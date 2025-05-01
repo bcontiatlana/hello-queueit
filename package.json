@@ -1,0 +1,16 @@
+{
+  "name": "simple-ts-app",
+  "version": "1.0.0",
+  "description": "A simple TypeScript application with a welcome page.",
+  "main": "dist/app.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "lite-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.6.1",
+    "typescript": "^4.5.4"
+  }
+}
